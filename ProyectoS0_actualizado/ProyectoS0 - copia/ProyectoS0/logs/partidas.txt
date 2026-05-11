@@ -1,0 +1,103 @@
+Nueva Sala 1 creada.
+Jugador 1 intentando entrar...
+Jugador 1 agregado a Sala 1 (1/4)
+Jugador 2 intentando entrar...
+Jugador 3 intentando entrar...
+Jugador 3 agregado a Sala 1 (2/4)
+Jugador 4 intentando entrar...
+Jugador 4 agregado a Sala 1 (3/4)
+Jugador 5 intentando entrar...
+Jugador 6 intentando entrar...
+Jugador 2 agregado a Sala 1 (4/4)
+
+==============================
+Sala 1 llena.
+Partida iniciando...
+==============================
+
+Jugador 1 iniciando partida en Sala 1
+Jugador 7 intentando entrar...
+Jugador 3 iniciando partida en Sala 1
+Jugador 8 intentando entrar...
+Jugador 4 iniciando partida en Sala 1
+Jugador 2 iniciando partida en Sala 1
+Jugador 9 intentando entrar...
+
+Nueva Sala 2 creada.
+Jugador 5 agregado a Sala 2 (1/4)
+Jugador 7 agregado a Sala 2 (2/4)
+Jugador 6 agregado a Sala 2 (3/4)
+Jugador 10 intentando entrar...
+Jugador 8 agregado a Sala 2 (4/4)
+
+==============================
+Sala 2 llena.
+Partida iniciando...
+==============================
+
+Jugador 5 iniciando partida en Sala 2
+Jugador 7 iniciando partida en Sala 2
+Jugador 11 intentando entrar...
+Jugador 6 iniciando partida en Sala 2
+Jugador 8 iniciando partida en Sala 2
+Jugador 12 intentando entrar...
+Jugador 13 intentando entrar...
+
+Nueva Sala 3 creada.
+Jugador 9 agregado a Sala 3 (1/4)
+Jugador 10 agregado a Sala 3 (2/4)
+Jugador 14 intentando entrar...
+Jugador 15 intentando entrar...
+Jugador 11 agregado a Sala 3 (3/4)
+Jugador 13 agregado a Sala 3 (4/4)
+
+==============================
+Sala 3 llena.
+Partida iniciando...
+==============================
+
+Jugador 9 iniciando partida en Sala 3
+Jugador 16 intentando entrar...
+Jugador 10 iniciando partida en Sala 3
+Jugador 17 intentando entrar...
+Jugador 18 intentando entrar...
+Jugador 11 iniciando partida en Sala 3
+Jugador 13 iniciando partida en Sala 3
+Jugador 19 intentando entrar...
+
+Nueva Sala 4 creada.
+Jugador 12 agregado a Sala 4 (1/4)
+Jugador 14 agregado a Sala 4 (2/4)
+Jugador 16 agregado a Sala 4 (3/4)
+Jugador 15 agregado a Sala 4 (4/4)
+
+==============================
+Sala 4 llena.
+Partida iniciando...
+==============================
+
+Jugador 12 iniciando partida en Sala 4
+Jugador 14 iniciando partida en Sala 4
+Jugador 20 intentando entrar...
+Jugador 16 iniciando partida en Sala 4
+Jugador 15 iniciando partida en Sala 4
+
+Nueva Sala 5 creada.
+Jugador 17 agregado a Sala 5 (1/4)
+Jugador 18 agregado a Sala 5 (2/4)
+Jugador 19 agregado a Sala 5 (3/4)
+Jugador 20 agregado a Sala 5 (4/4)
+
+==============================
+Sala 5 llena.
+Partida iniciando...
+==============================
+
+Jugador 17 iniciando partida en Sala 5
+Jugador 18 iniciando partida en Sala 5
+Jugador 19 iniciando partida en Sala 5
+Jugador 20 iniciando partida en Sala 5
+
+Nueva Sala 6 creada.
+
+Sistema finalizado correctamente.
